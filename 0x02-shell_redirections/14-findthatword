@@ -1,2 +1,2 @@
 #!/bin/bash
-get -i "rooot" /etc/passwd
+get -i "root" /etc/passwd
